@@ -3,7 +3,7 @@
 ## 📱 Overview
 **Music-Ally** is a simple and modern music player app built using **React Native**. It provides a seamless music playback experience with features like track uploads, custom playlists, and offline music support. The app is designed with a clean, responsive UI, leveraging Tailwind CSS for styling and React Native Track Player for audio playback.
 
-
+**Install it from here - [MusicAlly](MusicAlly.apk)**
 
 ## 🚀 Key Features
 - 🎧 **Play Local Songs**: Load and play MP3 files stored locally within the app.
